@@ -1,0 +1,10 @@
+.list {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+    &-image {
+        display: block;
+        width: 180px;
+    }
+}
